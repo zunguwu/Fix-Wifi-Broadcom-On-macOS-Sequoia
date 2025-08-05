@@ -15,7 +15,6 @@
 > https://github.com/dortania/OpenCore-Legacy-Patcher/releases
 
 **Cách thực hiện** 
-
 ** > Vui lòng sử dụng Propertree mở config.plist.
 * Bước 1 : Sau khi tải những kext ở bên trên, giải nén và copy kext vào folder EFI/OC/kexts
 * Bước 2 : Mở Config.plist bằng Propertree. Bấm Ctrl + R ➝ Chọn thư mục EFI/OC ➝ Select Folder
@@ -39,7 +38,6 @@
 > https://github.com/dortania/OpenCore-Legacy-Patcher/releases
 
 **Cách thực hiện**
-
 > Vui lòng sử dụng Propertree mở config.plist.
 * Bước 1 : Sau khi tải những kext ở bên trên, giải nén và copy kext vào folder EFI/OC/kexts
 * Bước 2 : Mở Config.plist bằng Propertree. Bấm Ctrl + R ➝ Chọn thư mục EFI/OC ➝ Select Folder
