@@ -6,15 +6,15 @@
 * Modern cards 1 : BCM94360, BCM943602 ( mấy dòng card mà không phải sử dụng thêm AirportBrcmFixup )
 * Modern cards 2 : BCM94350, BCM94352, BCM94331, BCM943224 ( mấy dòng card mà phải sử dụng thêm AirportBrcmFixup )
 #### II.Cách fix Wifi đối với nhóm Card Modern 1
-** **Chuẩn bị** **
+**Chuẩn bị**
 * Tải những kext sau: IOSkywalkFamily, IO80211FamilyLegacy và AMFIPass.kext:
 > https://drive.google.com/drive/folders/1LV4ZwnSdc4bZLcuA5nEXbB6pxpdw_k_w?usp=drive_link
 * Tải Config.plist mẫu ( để làm ví dụ ):
 > https://drive.google.com/file/d/1FcpKQ94bIPwXPPXfklFKi_iiK4OLoGRO/view?usp=drive_link
 * Opencore Legacy Patcher ( cứ mới nhất mà tải ):
 > https://github.com/dortania/OpenCore-Legacy-Patcher/releases
-** **Cách thực hiện** **
-> Vui lòng sử dụng Propertree mở config.plist.
+**Cách thực hiện** 
+** > Vui lòng sử dụng Propertree mở config.plist.
 * Bước 1 : Sau khi tải những kext ở bên trên, giải nén và copy kext vào folder EFI/OC/kexts
 * Bước 2 : Mở Config.plist bằng Propertree. Bấm Ctrl + R ➝ Chọn thư mục EFI/OC ➝ Select Folder
 * Bước 3 : Tiếp theo, sắp xếp những kext đã được thêm vào config.plist theo thứ tự như trong Config.plist mẫu đã tải bên trên
@@ -28,14 +28,14 @@
 * Bước 11: Restart và tận hưởng
 ---
 ### Cách fix Wifi đối với nhóm Card Modern 2
-** **Chuẩn bị** **
+**Chuẩn bị**
 * Tải những kext sau: IOSkywalkFamily, IO80211FamilyLegacy, AirportBrcmFixup và AMFIPass.kext:
 > https://drive.google.com/drive/folders/1r76QGY8RuJD1WMQavvSQTAywvXqN_Yfw?usp=drive_link
 * Tải Config.plist mẫu ( để làm ví dụ ):
 > https://drive.google.com/file/d/1FKBEYIwnPdnd0DTwOPsxQlV950b2uHMW/view?usp=drive_link
 * Opencore Legacy Patcher ( cứ mới nhất mà tải ):
 > https://github.com/dortania/OpenCore-Legacy-Patcher/releases
-** **Cách thực hiện** **
+**Cách thực hiện**
 > Vui lòng sử dụng Propertree mở config.plist.
 * Bước 1 : Sau khi tải những kext ở bên trên, giải nén và copy kext vào folder EFI/OC/kexts
 * Bước 2 : Mở Config.plist bằng Propertree. Bấm Ctrl + R ➝ Chọn thư mục EFI/OC ➝ Select Folder
@@ -53,8 +53,7 @@
 <img width="640" src="img/Wifi active again.png">
 </p>
 <br>
+
 ---
-### Một vài lỗi thường gặp và cách khắc phục
- * Đảm bảo các bác đã Map USB chính xác
-  ---
-  Bài hướng dẫn đến đây là kết thúc, chúc các bác thành công !
+
+  Bài hướng dẫn đến đây là kết thúc, chúc các bác thành công 
