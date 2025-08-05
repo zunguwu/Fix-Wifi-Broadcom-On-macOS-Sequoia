@@ -13,7 +13,9 @@
 > https://drive.google.com/file/d/1FcpKQ94bIPwXPPXfklFKi_iiK4OLoGRO/view?usp=drive_link
 * Opencore Legacy Patcher ( cứ mới nhất mà tải ):
 > https://github.com/dortania/OpenCore-Legacy-Patcher/releases
+
 **Cách thực hiện** 
+
 ** > Vui lòng sử dụng Propertree mở config.plist.
 * Bước 1 : Sau khi tải những kext ở bên trên, giải nén và copy kext vào folder EFI/OC/kexts
 * Bước 2 : Mở Config.plist bằng Propertree. Bấm Ctrl + R ➝ Chọn thư mục EFI/OC ➝ Select Folder
@@ -35,7 +37,9 @@
 > https://drive.google.com/file/d/1FKBEYIwnPdnd0DTwOPsxQlV950b2uHMW/view?usp=drive_link
 * Opencore Legacy Patcher ( cứ mới nhất mà tải ):
 > https://github.com/dortania/OpenCore-Legacy-Patcher/releases
+
 **Cách thực hiện**
+
 > Vui lòng sử dụng Propertree mở config.plist.
 * Bước 1 : Sau khi tải những kext ở bên trên, giải nén và copy kext vào folder EFI/OC/kexts
 * Bước 2 : Mở Config.plist bằng Propertree. Bấm Ctrl + R ➝ Chọn thư mục EFI/OC ➝ Select Folder
