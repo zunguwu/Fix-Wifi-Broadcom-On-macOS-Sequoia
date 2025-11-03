@@ -8,9 +8,9 @@
 #### II.Cách fix Wifi đối với nhóm Card Modern 1
 **Chuẩn bị**
 * Tải những kext sau: IOSkywalkFamily, IO80211FamilyLegacy và AMFIPass.kext:
-> https://drive.google.com/drive/folders/1LV4ZwnSdc4bZLcuA5nEXbB6pxpdw_k_w?usp=drive_link
+> https://byvn.net/KvTc
 * Tải Config.plist mẫu ( để làm ví dụ ):
-> https://drive.google.com/file/d/1FcpKQ94bIPwXPPXfklFKi_iiK4OLoGRO/view?usp=drive_link
+> https://byvn.net/DkZ0
 * Opencore Legacy Patcher ( cứ mới nhất mà tải ):
 > https://github.com/dortania/OpenCore-Legacy-Patcher/releases
 
