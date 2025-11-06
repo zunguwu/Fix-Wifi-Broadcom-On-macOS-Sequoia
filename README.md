@@ -1,6 +1,9 @@
 ### [Hướng dẫn] Fix Wifi Broadcom trên macOS 15 Sequoia
+<br>
+<p align="center">
 <img src="img/Wi-Fi icon.png">
 </p>
+<br>
 
 #### I. Thông tin về card wifi hỗ trợ :
 * Modern cards 1 : BCM94360, BCM943602 ( mấy dòng card mà không phải sử dụng thêm AirportBrcmFixup )
