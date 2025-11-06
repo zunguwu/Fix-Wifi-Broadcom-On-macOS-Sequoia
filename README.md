@@ -11,8 +11,8 @@
 > https://byvn.net/KvTc
 * Tải Config.plist mẫu ( để làm ví dụ ):
 > https://byvn.net/DkZ0
-* Opencore Legacy Patcher ( cứ mới nhất mà tải ):
-> https://github.com/dortania/OpenCore-Legacy-Patcher/releases
+* Opencore Legacy Patcher :
+> https://byvn.net/8j2T
 
 **Cách thực hiện** 
 > Vui lòng sử dụng Propertree mở config.plist.
@@ -31,11 +31,11 @@
 ### Cách fix Wifi đối với nhóm Card Modern 2
 **Chuẩn bị**
 * Tải những kext sau: IOSkywalkFamily, IO80211FamilyLegacy, AirportBrcmFixup và AMFIPass.kext:
-> https://drive.google.com/drive/folders/1r76QGY8RuJD1WMQavvSQTAywvXqN_Yfw?usp=drive_link
+> https://byvn.net/Zv2J
 * Tải Config.plist mẫu ( để làm ví dụ ):
-> https://drive.google.com/file/d/1FKBEYIwnPdnd0DTwOPsxQlV950b2uHMW/view?usp=drive_link
-* Opencore Legacy Patcher ( cứ mới nhất mà tải ):
-> https://github.com/dortania/OpenCore-Legacy-Patcher/releases
+> https://byvn.net/rzwY
+* Opencore Legacy Patcher :
+> https://byvn.net/8j2T
 
 **Cách thực hiện**
 > Vui lòng sử dụng Propertree mở config.plist.
